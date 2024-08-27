@@ -2,7 +2,7 @@
 
 This is a trimmed version taken from the Encode Bootcamp Solana course.
 
-Make sure you have Rust installed.
+Full Version: https://github.com/rust-lang/rustlings/
 
 # Installing Rustlings
 
